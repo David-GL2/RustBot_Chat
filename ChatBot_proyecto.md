@@ -44,6 +44,8 @@ El resultado es una arquitectura híbrida deliberada, parte en la nube gratuita,
 
 | Capa | Tecnología |
 |---|---|
+| Transcripción de videos | yt-dlp + servicio web |
+| Consultas | Servicio gratuito de chat.DeepSeek |
 | Gestión de la BD | Obsidian |
 | Frontend | HTML + CSS + JS vanilla |
 | Backend | FastAPI (Python) |
@@ -71,7 +73,7 @@ Con toda transparencia — esto es un proyecto de aprendizaje sobre hardware per
 
 ## Estado del proyecto
 
-Demo activa mientras dure mi búsqueda de prácticas (a partir de septiembre de 2026). Si el enlace no responde, probablemente mi PC esté apagado en ese momento — este README describe la arquitectura y las decisiones técnicas del proyecto. Posiblemente intente migrar todo el proyecto a la nube, llevando también el modelo al plan gratuito de Groq.
+Demo activa mientras dure mi búsqueda de prácticas (a partir de septiembre de 2026). Si el enlace no responde, probablemente mi PC esté apagado en ese momento. Posiblemente intente migrar todo el proyecto a la nube, llevando también el modelo al plan gratuito de Groq. Para más información o duda, contáctame por email-Linkedin-tlf-Whatsapp.
 
 
 ## Autor
