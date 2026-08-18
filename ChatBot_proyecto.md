@@ -6,7 +6,8 @@ Soy estudiante del ciclo de **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 **Mi CV https://david-gl2.github.io/CV/**
 
 **🔗 Demo en vivo:** [https://rustbot-render.onrender.com](https://rustbot-render.onrender.com) — funciona sobre hardware personal, así que puede tardar unos 50 segundos en despertar o estar puntualmente offline ya que depende de que tenga los servicios activos.
-![RustBot Chat](rustBotChat.jpg)
+
+![RustBot Chat](rustBotChat.JPG)
 
 ---
 
