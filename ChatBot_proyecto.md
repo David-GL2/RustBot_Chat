@@ -2,7 +2,7 @@
 
 Chatbot con RAG (Retrieval-Augmented Generation) especializado en nutrición, metabolismo y bioenergética, con la personalidad del divulgador [Rust](https://www.youtube.com/@rustkolnikov), inspirado en la obra de Ray Peat, Georgi Dinkov y Danny Roddy.
 
-**🔗 Demo en vivo:** [https://rustbot-render.onrender.com/](#) — corre sobre hardware personal, así que puede tardar unos segundos en despertar o estar puntualmente offline (ver [Estado del proyecto](#estado-del-proyecto)).
+**🔗 Demo en vivo:** [https://rustbot-render.onrender.com](#) — corre sobre hardware personal, así que puede tardar unos segundos en despertar o estar puntualmente offline (ver [Estado del proyecto](#estado-del-proyecto)).
 
 ---
 
